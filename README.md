@@ -33,7 +33,7 @@ The pipeline takes a parameter file with the information needed to run, make sur
  0
   
 You should haveall files, the Genomic_predictions_pipeline.sh, and Genomic_predictions_pipeline_par_file.par
-to run the Genomic_predictions_pipeline.sh pipeline. You can you the following command to run:
+to run the Genomic_predictions_pipeline.sh pipeline. You can you the following command to run:  
   echo Genomic_predictions_pipeline_par_file.par | ./Genomic_predictions_pipeline.sh > Genomic_predictions_pipeline.out
 
 This code is free of use under the MIT Licence. 
