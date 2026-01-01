@@ -39,4 +39,6 @@ to run the Genomic_predictions_pipeline.sh pipeline. You can you the following c
 
 This code is free of use under the MIT Licence. 
 
+The phenotypic, pedigree and genomic data used in this study are the property of the industry partner that contributed to the study and therefore are not readily available due to its commercial sensitivity. Requests to access the datasets should be directed to the National Sheep Improvement Program (NSIP).
+
 For problems, bugs or doubts contact Andre C. Araujo by email: araujoa@purdue.edu | andre.araujo@acufastswine.com
